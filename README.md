@@ -1,6 +1,7 @@
 # HR Data Analysis Dashboard | Workforce, Attrition & Hiring Insights
 
 🔷 Overview
+
 This project presents an interactive HR Analytics dashboard built in Power BI to analyze workforce distribution, attrition patterns, and hiring trends.
 
 The dashboard helps answer key business questions:
@@ -54,6 +55,6 @@ The dashboard helps answer key business questions:
 
 📸 Dashboard Preview
 
-!<img width="1331" height="732" alt="image" src="https://github.com/user-attachments/assets/3b1efaad-43c7-440a-8f2b-71a06833b1ff" />
+<img width="1331" height="732" alt="image" src="https://github.com/user-attachments/assets/3b1efaad-43c7-440a-8f2b-71a06833b1ff" />
 
 
